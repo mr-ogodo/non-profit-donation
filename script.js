@@ -13,7 +13,6 @@ var bubble = document.getElementById("bubble1");
   modal.style.display = "block";
 
   }
-  
   close.onclick = function(){
   modal.style.display = "none"
   }
